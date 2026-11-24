@@ -11,3 +11,5 @@
 
 4. Python Documentation – date.weekday()
    https://docs.python.org/3.14/library/datetime.html#datetime.date.weekday
+   
+I chose IT support tips because they’re the kind of reminders I’d actually give someone at work. Tuesday’s tip is a simple example: take your laptop with you when you leave your car.
